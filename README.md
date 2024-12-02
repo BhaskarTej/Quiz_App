@@ -1,16 +1,19 @@
 # quiz_app
 
-A new Flutter project.
+A customizable and professional Quiz App built with Flutter. The app fetches trivia questions dynamically from the Open Trivia Database API and provides an interactive and polished quiz experience.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+	•	Setup Screen:
+	•	Choose the number of questions.
+	•	Select category, difficulty, and question type.
+	•	Dynamic Questions:
+	•	Questions are fetched in real-time from the Open Trivia Database API.
+	•	Real-Time Feedback:
+	•	Instant feedback on answers with correct/incorrect highlighting.
+	•	Score Tracking:
+	•	Tracks your score dynamically and shows the result at the end.
+	•	Responsive Design:
+	•	Professional and colorful UI with gradient backgrounds, custom fonts, and styled buttons.
+	•	Error Handling:
+	•	Displays messages for API errors or connectivity issues.
